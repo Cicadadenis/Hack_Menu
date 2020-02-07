@@ -1,6 +1,6 @@
 
 
-# Tool-X v2.1
+# Tool-X v1.0.1
 
 [![Build Status](https://img.shields.io/github/forks/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
 [![Build Status](https://img.shields.io/github/stars/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
@@ -9,65 +9,62 @@
 
 ------------------------------------------------------------------------
 
-### Introduction
+### введение
 
-*Tool-X is a Kali Linux hacking tools installer for Termux and linux system.*
-Tool-X was developed for Termux and other android terminals. Using Tool-X, you can install almost 370+ hacking tools in Termux (android) and other Linux based distributions. Now Tool-X is available for Ubuntu, Debian etc.
-
+ * Tool-X - это установщик хакерских инструментов Kali Linux для систем Termux и linux. *
+ Tool-X был разработан для Termux и других терминалов Android.  Используя Tool-X, вы можете установить почти 370+ инструментов для взлома в Termux (android) и других дистрибутивах на основе Linux.  Теперь Tool-X доступен для Ubuntu, Debian и т. Д.
 <br>
 <p align="center">
-<img width="53%" src="https://github.com/Rajkumrdusad/Tool-X/blob/master/core/toolx.png"/>
-<img width="38%" src="https://github.com/Rajkumrdusad/Tool-X/blob/master/core/toolx_cat.png"/>
+<img width="53%" src=""/>
+<img width="38%" src=""/>
 </p>
 
 ------------------------------------------------------------------------
 
-### Operating System Requirements
+### Требования к операционной системе
 
-Tool-X works on any of the following operating systems:<br>
-• **Android** (Using the Termux App) <br>
-• **Linux** (Debian Based Systems) <br>
-
+ Tool-X работает в любой из следующих операционных систем: <br>
+ • ** Android ** (с помощью приложения Termux) <br>
+ • ** Linux ** (системы на основе Debian) <br>
 ------------------------------------------------------------------------
 
-### How to Install
+### Как установить
 
-Open the terminal and type following commands.
+ Откройте терминал и введите следующие команды.
 
-* `apt update`
+ * `apt update`
 
-* `apt install git`
+ * `apt install git`
 
-* `git clone https://github.com/Rajkumrdusad/Tool-X.git`
+ * `git clone https: // github.com / Rajkumrdusad / Tool-X.git`
 
-* `cd Tool-X`
+ * `CD Tool-X`
 
-* `chmod +x install.aex`
+ * `chmod + x install.aex`
 
-* `sh install.aex` if not work than use `./install.aex`
+ * `sh install.aex`, если не работает, чем пользуйтесь`. / install.aex`
 
-------------------------------------------------------------------------
+ --------------------------------------------------  ----------------------
 
-### How to Use ?
+ ### Как использовать?
 
-Enter a Number for a specific output:
-- (0) : To install all tools.
-- (1) : To show all available tools and type the number of a tool which you want to install.
-- (2) : To show tools category.
-- (3) : For the install of the operating system in Termux
-- (4) : If you want to update Tool-X.
-- (5) : If you want to know About Us.
-- (x) : To exit the tool.
+ Введите номер для конкретного выхода:
+ - (0): установить все инструменты.
+ - (1): показать все доступные инструменты и ввести номер инструмента, который вы хотите установить.
+ - (2): показать категорию инструментов.
+ - (3): для установки операционной системы в Termux
+ - (4): если вы хотите обновить Tool-X.
+ - (5): если вы хотите знать о нас.
+ - (х): для выхода из инструмента.
 
-<br/>
+ <br/>
 
-***Now Tool-X is installed successfully. To run Tool-X Type `Tool-X` or `toolx` in your terminal.***
+ *** Теперь Tool-X успешно установлен.  Для запуска Tool-X введите `Tool-X` или` toolx` в своем терминале. ***
 
-Type `Tool-X` or `toolx` from anywhere in your terminal to open Tool-X.
+ Введите «Tool-X» или «toolx» из любой точки вашего терминала, чтобы открыть Tool-X.
 
-------------------------------------------------------------------------
+ --------------------------------------------------  ----------------------
 
-**Warning**
+ ** Внимание **
 
-I am ***NOT*** expert, so use this tool at your own risk!
-
+ Я эксперт, поэтому мы ...можем все
