@@ -2,10 +2,6 @@
 
 # Tool-X v1.0.1
 
-[![Build Status](https://img.shields.io/github/forks/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
-[![Build Status](https://img.shields.io/github/stars/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
-[![License](https://img.shields.io/github/license/Rajkumrdusad/Tool-X.svg)](https://github.com/Rajkumrdusad/Tool-X)
-[![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Tool-X)
 
 ------------------------------------------------------------------------
 
@@ -13,11 +9,7 @@
 
  * Tool-X - это установщик хакерских инструментов Kali Linux для систем Termux и linux. *
  Tool-X был разработан для Termux и других терминалов Android.  Используя Tool-X, вы можете установить почти 370+ инструментов для взлома в Termux (android) и других дистрибутивах на основе Linux.  Теперь Tool-X доступен для Ubuntu, Debian и т. Д.
-<br>
-<p align="center">
-<img width="53%" src=""/>
-<img width="38%" src=""/>
-</p>
+
 
 ------------------------------------------------------------------------
 
